@@ -13,7 +13,7 @@ a{
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: blue);
 }
 .contenedor_logo, .nav{
     display: flex;
